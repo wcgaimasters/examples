@@ -1,0 +1,17 @@
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.dir
+Win32
+.vs
+*/Release
+*/build
+team_a_data/*
+team_b_data/*
+commentator_data/*
+reporter_data/*
+*/__pycache__

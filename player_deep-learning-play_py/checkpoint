@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/aiwc/Desktop/examples_develop/player_deep-learning-play_py/dqn.ckpt"
+all_model_checkpoint_paths: "/home/aiwc/Desktop/examples_develop/player_deep-learning-play_py/dqn.ckpt"
